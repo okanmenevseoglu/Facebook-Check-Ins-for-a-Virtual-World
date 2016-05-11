@@ -17,7 +17,7 @@ You need to submit a report, preferably as an jupyter notebook, that contains
 - Submit your report with all the material by 3rd June, 19:00 by a pull request
 
 Optional but recommended:
-- Present your results at our final meeting in 3rd June, Wednesday.
+- Present your results at our final meeting in 3rd June, Friday. 19:00
 
 You can also choose another data set, such as data from a kaggle competition such as 
 https://www.kaggle.com/c/expedia-hotel-recommendations
